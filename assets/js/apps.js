@@ -29,7 +29,7 @@
 
 	document.getElementById('btnOpen').addEventListener('click', function () {
 	//	alert("test");
-	  window.open("borang_ppt.html");
+	  location.href="borang_ppt.html";
 	});
 
 
