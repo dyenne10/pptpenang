@@ -1,0 +1,69 @@
+{
+    "name": "PPTPENANG",
+    "short_name": "PPTPENANG",
+    "start_url": "/",
+    "display": "standalone",
+    "scope" : "/",
+    "background_color": "#211d70",
+    "theme_color": "#61116a",
+    "orientation": "portrait",
+    "icons": [
+		{
+            "src": "assets/img/icon/57x57.png",
+            "sizes": "57x57",
+            "type": "image/png"
+            
+        },
+		{
+            "src": "assets/img/icon/60x60.png",
+            "sizes": "60x60",
+            "type": "image/png"
+            
+        },
+		{
+            "src": "assets/img/icon/72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+            
+        },
+		{
+            "src": "assets/img/icon/76x76.png",
+            "sizes": "76x76",
+            "type": "image/png"
+            
+        },
+		{
+            "src": "assets/img/icon/114x114.png",
+            "sizes": "114x114",
+            "type": "image/png"
+            
+        },
+		{
+            "src": "assets/img/icon/120x120.png",
+            "sizes": "120x120",
+            "type": "image/png"
+            
+        },
+		{
+            "src": "assets/img/icon/144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+            
+        },
+		{
+            "src": "assets/img/icon/172x172.png",
+            "sizes": "172x172",
+            "type": "image/png"
+            
+        },
+        
+        {
+            "src": "assets/img/icon/256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+
+        
+    ],
+     "gcm_sender_id": "103953800507"
+}
